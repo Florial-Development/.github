@@ -5,9 +5,11 @@ At Florial, we are currently aiming on a recode for our Season 6, the road will 
 
 Since regular hostile mobs are absent, they are replaced by Boars, Ravagers, and other more forest-like creatures. Since most passive mobs are gone too, you'll need to use your nose to find food. You can upgrade your core survival animal skils, burrow as a fox, or level your mobility as a cat. Using your nose is the most important thing one can do in this world for survival, next to making chocolates, right below getting DNA to evolve further.
 
+Florial will utilize a custom required resourcepack and henceforth have custom-art GUIS, among other fun things.
+
 ..Or you can just be a human.
 
-##TO-DO (For Now!)
+## TO-DO (For Now!)
 
 - [x] Basic Species Code (Santio & Reassembly)
 - [] Cat Species
@@ -15,7 +17,7 @@ Since regular hostile mobs are absent, they are replaced by Boars, Ravagers, and
 - [] Human Species
 - [x] BASE Skills Code
 - [] Skills
-- [x] Thirst (Rosa)
+- [x] Thirst System (Rosa)
 - [x] Custom Hostile Mobs (Rosa)
 - [x] MongoDB base (Reassembly)
 - [] Chocolate Making
