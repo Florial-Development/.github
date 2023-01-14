@@ -11,14 +11,14 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 
 ## TO-DO (For Now!)
 
-- [x] Basic Species Code (Santio & Reassembly)
+- [x] Basic Species Code 
 - [] Cat Species
 - [] Fox Species
 - [] Human Species
 - [x] BASE Skills Code
 - [] Skills
-- [x] Thirst System (Rosa)
-- [x] Custom Hostile Mobs (Rosa)
-- [x] MongoDB base (Reassembly)
+- [x] Thirst System 
+- [x] Custom Hostile Mobs 
+- [x] MongoDB base 
 - [] Chocolate Making
-- [] all Custom GUIS (Rosa)
+- [] all Custom GUIS 
