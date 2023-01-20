@@ -16,11 +16,12 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 - [ ] Fox Species
 - [ ] Human Species
 - [x] BASE Skills Code
+- [x] Skills Base
 - [ ] Skills
 - [x] Thirst System 
 - [x] Custom Hostile Mobs 
 - [x] MongoDB base 
-- [ ] Chocolate Making
+- [x] Chocolate Making
 - [ ] all Custom GUIS 
 
 
