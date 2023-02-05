@@ -17,7 +17,8 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 - [ ] Human Species
 - [x] BASE Skills Code
 - [x] Skills Base
-- [ ] Skills
+- [x] Skills
+- [x] Scent System
 - [x] Thirst System 
 - [x] Custom Hostile Mobs 
 - [x] MongoDB base 
