@@ -12,9 +12,9 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 ## TO-DO (For Now!)
 
 - [x] Basic Species Code 
-- [ ] Cat Species
-- [ ] Fox Species
-- [ ] Human Species
+- [x] Cat Species
+- [x] Fox Species
+- [x] Human Species
 - [x] BASE Skills Code
 - [x] Skills Base
 - [x] Skills
@@ -23,7 +23,7 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 - [x] Custom Hostile Mobs 
 - [x] MongoDB base 
 - [x] Chocolate Making
-- [ ] all Custom GUIS 
+- [x] all Custom GUIS 
 
 
 
