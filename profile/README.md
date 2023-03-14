@@ -11,6 +11,16 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 
 ## TO-DO (For Now!)
 
+- [ ] Scoreboard
+- [ ] Mutating
+- [ ] /shop
+- [ ] /sell
+- [ ] Bedrock Support
+
+
+## WHAT'S DONE
+
+
 - [x] Basic Species Code 
 - [x] Cat Species
 - [x] Fox Species
