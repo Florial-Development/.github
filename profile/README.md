@@ -11,6 +11,8 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 
 ## TO-DO (For Now!)
 
+- [x] Discord bot base
+- [ ] Discord Bot Done
 - [ ] Scoreboard
 - [ ] Mutating
 - [ ] /shop
