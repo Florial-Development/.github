@@ -18,6 +18,9 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 - [ ] /shop
 - [ ] /sell
 - [ ] Bedrock Support
+- [ ] Life Stages
+- [ ] Instincts
+- [ ] Quest System
 
 
 ## WHAT'S DONE
@@ -34,7 +37,6 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 - [x] Thirst System 
 - [x] Custom Hostile Mobs 
 - [x] MongoDB base 
-- [x] Chocolate Making
 - [x] all Custom GUIS 
 
 
