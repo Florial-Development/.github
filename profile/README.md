@@ -13,14 +13,13 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 
 - [x] Discord bot base
 - [ ] Discord Bot Done
-- [ ] Scoreboard
-- [ ] Mutating
+- [x] Scoreboard
 - [ ] /shop
 - [ ] /sell
 - [ ] Bedrock Support
-- [ ] Life Stages
+- [x] Aging System/Life Stages
 - [ ] Instincts
-- [ ] Quest System
+- [x] Quest System
 
 
 ## WHAT'S DONE
