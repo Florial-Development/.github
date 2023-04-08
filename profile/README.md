@@ -14,7 +14,8 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 - [x] Discord bot base
 - [ ] Discord Bot Done
 - [x] Scoreboard
-- [ ] /shop
+- [x] /shop
+- [ ] Chat Filters (in-progress)
 - [ ] /sell
 - [ ] Bedrock Support
 - [x] Aging System/Life Stages
