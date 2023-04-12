@@ -12,10 +12,10 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 ## TO-DO (For Now!)
 
 - [x] Discord bot base
-- [ ] Discord Bot Done
+- [x] Discord Bot Done
 - [x] Scoreboard
 - [x] /shop
-- [ ] Chat Filters (in-progress)
+- [x] Chat Filters/Anti-Spam
 - [ ] /sell
 - [ ] Bedrock Support
 - [x] Aging System/Life Stages
