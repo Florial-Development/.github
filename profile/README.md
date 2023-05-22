@@ -11,17 +11,7 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 
 ## TO-DO (For Now!)
 
-- [x] Discord bot base
-- [x] Discord Bot Done
-- [x] Scoreboard
-- [x] /shop
-- [x] Chat Filters/Anti-Spam
-- [ ] /sell
-- [ ] Bedrock Support
-- [x] Aging System/Life Stages
-- [ ] Instincts
-- [x] Quest System
-
+Nothing because we released successfully!
 
 ## WHAT'S DONE
 
@@ -38,6 +28,16 @@ Florial will utilize a custom required resourcepack and henceforth have custom-a
 - [x] Custom Hostile Mobs 
 - [x] MongoDB base 
 - [x] all Custom GUIS 
+- [x] Discord bot base
+- [x] Discord Bot Done
+- [x] Scoreboard
+- [x] /shop
+- [x] Chat Filters/Anti-Spam
+- [x] /sell
+- [x] Bedrock Support
+- [x] Aging System/Life Stages
+- [x] Instincts
+- [x] Quest System
 
 
 
