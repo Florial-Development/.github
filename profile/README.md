@@ -1,43 +1,31 @@
-![This is an image](https://media.discordapp.net/attachments/595326600904572948/1053600440983498772/banner.png)
+![This is an image](https://media.discordapp.net/attachments/564923688621834251/1167373045493674044/us.jpg?format=webp)
 ### Welcome to Florial
 
-At Florial, we are currently aiming on a recode for our Season 6, the road will be long, but we'll do it! Florial Season 6 is where you can play Minecraft under our server's lore, you can either be a Cat or a Fox, two species who hate each other in a vast, hidden place, called the Cascades. When you choose your Species, you will transform into the animal, the player can perform various emotes like Sitting or Sleeping.
+Project Florial (name undecided) is an indie game in development. Some of core features are exploring the story. Your primary goal is leading your clan of foxes through generations. They look to you for everything. You will watch one generation be born, you will name them, and bless them in your name. You will train them, send them out to get food and to fight for your clan. You will watch them grow old, choose a mate, and maybe have kits of their own at some point. By then, your devoted clan member will be old. They can no longer do much, so the rest of your clan will care for them. Eventually, they die, and pass on. It's the circle of life, and just another to add to your collection. You yourself are immortal, so perhaps make the best of it, and keep expanding and colonizing the area around you. You're alone, where you came from, they no longer accept you. You are not even used to living in a real body, your knowledge on the world is still limited. Even so, There is still one being in the world who you can love and trust. You should probably protect her with your life and the fiercity of your clan. But won't that be hard when someone gets in the way? You're the /right/ one here anyway.
 
-Since regular hostile mobs are absent, they are replaced by Boars, Ravagers, and other more forest-like creatures. Since most passive mobs are gone too, you'll need to use your nose to find food. You can upgrade your core survival animal skils, burrow as a fox, or level your mobility as a cat. Using your nose is the most important thing one can do in this world for survival, next to making chocolates, right below getting DNA to evolve further.
+## Development
 
-Florial will utilize a custom required resourcepack and henceforth have custom-art GUIS, among other fun things.
+Project Florial will be coded in a series of developmental phases. Currently, we have a 9 month plan. At the end of which, we are hopefully releasing the game's first demo. Afterward, developmental phases will continue.
 
-..Or you can just be a human.
-
-## TO-DO (For Now!)
-
-Nothing because we released successfully!
-
-## WHAT'S DONE
+## Developmental Phase Progress
 
 
-- [x] Basic Species Code 
-- [x] Cat Species
-- [x] Fox Species
-- [x] Human Species
-- [x] BASE Skills Code
-- [x] Skills Base
-- [x] Skills
-- [x] Scent System
-- [x] Thirst System 
-- [x] Custom Hostile Mobs 
-- [x] MongoDB base 
-- [x] all Custom GUIS 
-- [x] Discord bot base
-- [x] Discord Bot Done
-- [x] Scoreboard
-- [x] /shop
-- [x] Chat Filters/Anti-Spam
-- [x] /sell
-- [x] Bedrock Support
-- [x] Aging System/Life Stages
-- [x] Instincts
-- [x] Quest System
+- [x] Phase zero
+- [x] Phase one
+- [ ] Phase two (in progress)
+- [ ] Phase three
+- [ ] Phase four
+- [ ] Phase five
+- [ ] Phase six
+- [ ] Phase seven
+- [ ] Phase eight
+- [ ] Phase nine
+
+## Discord Bot
+
+To keep the community fed, we have a Discord Bot for our Discord server, in which you can unlock various lore stories about the game before it releases. You can level up, unlock stories, purchase cosmetics, and more. Whilst it is fully coded, there are plenty of ideas for expansion and updates in the future.
+
+
 
 
 
