@@ -18,7 +18,7 @@ Project Florial (name undecided) is an indie game in development. Some of core f
 
 *"If my siblings must be banished, take me too"* 
 
-**On one paw, Tulip the man er- fox,  (wild)cat, hybrid.. in the middle. On the other paw, she just wants to live in peace and wants the others to do the same. About the only one who keeps the peace in The Cascades. And yes, if you were wondering, she loves both of them equally. It really is a shame. And it's a terribly ironic twist of fate she happens to be on both sides of the coin, both literally, and figuratively.**
+**On one paw, Tulip is the man er- fox,  (wild)cat, hybrid.. in the middle. On the other paw, she just wants to live in peace and wants the others to do the same. About the only one who keeps the peace in The Cascades. And yes, if you were wondering, she loves both of them equally. It really is a shame. And it's a terribly ironic twist of fate she happens to be on both sides of the coin, both literally, and figuratively.**
 
 ## Characters - BRANN (You, the player)
 ![](https://github.com/Florial-Development/.github/blob/main/ezgif.com-video-to-gif_2.gif)
