@@ -32,7 +32,7 @@ Project Florial (name undecided) is an indie game in development. Some of core f
 
 *"Prepare for Ragnarok."*
 
-**Ah, Snø... Unhealthily obsessed with the impending doom of ... She shares sentiments with Brann. Her clan is her life, and she is a wildcat. At least that's what she appears to be... She lives further up The Cascades, in the snowy mountainous region. The prey is abundant more south down by the borders. You can imagine how this puts pressure on both of their clans.. Anyway, she will learn her lesson eventually... Eventually... Life isn't what it's cracked up to be on this mortal planet.
+**Ah, Snø... Unhealthily obsessed with the impending doom of ... She shares sentiments with Brann. Her clan is her life, and she is a wildcat. At least that's what she appears to be... She lives further up The Cascades, in the snowy mountainous region. The prey is abundant more south down by the borders. You can imagine how this puts pressure on both of their clans.. Anyway, she will learn her lesson eventually... Eventually... Life isn't what it's cracked up to be on this mortal planet.**
 
 
 ## Development
