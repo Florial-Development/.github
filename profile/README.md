@@ -44,8 +44,8 @@ Project Florial started development around late September on 2023, and it has be
 
 - [x] Phase zero
 - [x] Phase one
-- [ ] Phase two (in progress)
-- [ ] Phase three
+- [x] Phase two 
+- [ ] Phase three (in progress)
 - [ ] Phase four
 - [ ] Phase five
 - [ ] Phase six
