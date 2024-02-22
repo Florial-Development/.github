@@ -1,4 +1,4 @@
-![This is an image](https://media.discordapp.net/attachments/564923688621834251/1167373045493674044/us.jpg?format=webp)
+![This is an image]([https://media.discordapp.net/attachments/564923688621834251/1167373045493674044/us.jpg?format=webp](https://media.discordapp.net/attachments/564923688621834251/1199292744749826078/image.png?ex=65e6ed68&is=65d47868&hm=b992cac24b07149c6a26254d647d5fc956e7dca9f7b58a83fef4964aecdc44dc&=&format=webp&quality=lossless&width=550&height=310))
 ##
 ![This is an image](https://media.discordapp.net/attachments/1165445508127526932/1165453227379142797/image.png?ex=657e46e6&is=656bd1e6&hm=e74f32c8ea3f42daf78891008073ddb1a60ecb60a47c074faff35446b340e942&=&format=webp&quality=lossless&width=900&height=505)
 ![This is an image](https://media.discordapp.net/attachments/1165445508127526932/1165451528610533386/image.png?ex=657e4551&is=656bd051&hm=c259661dcb7677507d77bbc144108ea987d65dc509cd57064f6fe9ec8a6502e2&=&format=webp&quality=lossless&width=900&height=508)
@@ -45,8 +45,8 @@ Project Florial started development around late September on 2023, and it has be
 - [x] Phase zero
 - [x] Phase one
 - [x] Phase two 
-- [ ] Phase three (in progress)
-- [ ] Phase four
+- [x] Phase three 
+- [ ] Phase four (in progress)
 - [ ] Phase five
 - [ ] Phase six
 - [ ] Phase seven
