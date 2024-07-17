@@ -28,9 +28,6 @@ Project Florial started development around late September on 2023, and it has be
 - [ ] Phase eight
 - [ ] Phase nine
 
-## Discord Bot
-
-To keep the community fed, we have a Discord Bot for our Discord server, in which you can unlock various lore stories about the game before it releases. You can level up, unlock stories, purchase cosmetics, and more. Whilst it is fully coded, there are plenty of ideas for expansion and updates in the future.
 
 
 
