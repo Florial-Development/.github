@@ -18,6 +18,12 @@ You play as Brann, an immortal fox tasked with an integral duty: Leading a skulk
 
 Brann's Burrow starting developed around late September 2023, developed in a series of "phases." Now it is developed through official updates. Our updates are listed on our Trello and we work month after month to finish them and move onto the next thing until we are able to put out an official, playable pre-alpha release known as our 0.1.0 update. The project is not open source nor is it ever planned to be.
 
+## "Kin first, your own paw second" is the most important rule of skulk life
+
+<div align="center"> 
+  <img src="https://media.discordapp.net/attachments/1165445508127526932/1267034502710956092/image.png?ex=66c10695&is=66bfb515&hm=d3be4d8949e40e93607d2ccc039be5722520e9924d9f7158ec673e0a9c2df9ef&=&format=webp&quality=lossless" alt=""> 
+</div> 
+
 ## Relevant Links
 
 > Trello: https://trello.com/b/F26awz1q/branns-burrow-tftd-development
