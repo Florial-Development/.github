@@ -37,6 +37,9 @@ Brann's Burrow starting developed around late September 2023, developed in a ser
   <img src="https://media.discordapp.net/attachments/564923688621834251/1274278956970938401/Untitled2.png?ex=66c1ac42&is=66c05ac2&hm=4129dafe7fc70d0c936f2f9f0ccd0ee0b98f56cd8ee1756488788bb048a5b15b&=&format=webp&quality=lossless&width=920&height=402" alt="" width="920" height="402"> 
 </div> 
 
-
-
+<div align="center">
+  <p style="font-size: xx-small; color: gray;">
+    Logo illustration by @Synyster_Gates, character art by @TBYStraw
+  </p>
+</div>
 
