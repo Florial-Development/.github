@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/564923688621834251/1274269623860072448/logo3.png?ex=66c1a391&is=66c05211&hm=f1412281bc0cfa2e9273ee0bec76efb2997cac1ecab000e29c9f2b6199c8546b&=&format=webp&quality=lossless&width=350&height=350" alt="" width="350" height="350">
+  <img src="https://i.imgur.com/UpgwnAP.png&=&format=webp&quality=lossless&width=350&height=350" alt="" width="350" height="350">
 </div>
 
 ##
@@ -10,7 +10,7 @@ Brann's Burrow: Tails from the Den 𓃦 is a game about managing your fox skulk 
 
 
 <div align="left"> 
-  <img src="https://media.discordapp.net/attachments/564923688621834251/1274269578364715031/Untitled.png?ex=66c1a386&is=66c05206&hm=5ad697bd7c2656c9e0aa27a382a68e962cf0b81ea2e3f957e379940811e73b51&=&format=webp&quality=lossless&width=302&height=350" alt="" width="302" height="350"> 
+  <img src="https://i.imgur.com/7iKDRkb.png&=&format=webp&quality=lossless&width=302&height=350" alt="" width="302" height="350"> 
 </div> 
 You play as Brann, an immortal fox tasked with an integral duty: Leading a skulk, and fending off the north. Skulk law is important and integral to skulk life for a fox, you should live by it, too. The world is unforgiving, harsh, and the northern foxes pose a bigger threat than ever. How will you lead your skulk?
 
@@ -21,7 +21,7 @@ Brann's Burrow starting developed around late September 2023, developed in a ser
 ## "Kin first, your own paw second" is the most important rule of skulk life
 
 <div align="center"> 
-  <img src="https://media.discordapp.net/attachments/1165445508127526932/1267034502710956092/image.png?ex=66c10695&is=66bfb515&hm=d3be4d8949e40e93607d2ccc039be5722520e9924d9f7158ec673e0a9c2df9ef&=&format=webp&quality=lossless" alt=""> 
+  <img src="https://i.imgur.com/DqbO1hT.png&=&format=webp&quality=lossless" alt=""> 
 </div> 
 
 ## Relevant Links
@@ -34,7 +34,7 @@ Brann's Burrow starting developed around late September 2023, developed in a ser
 ## Curated by
 
 <div align="center"> 
-  <img src="https://media.discordapp.net/attachments/564923688621834251/1274278956970938401/Untitled2.png?ex=66c1ac42&is=66c05ac2&hm=4129dafe7fc70d0c936f2f9f0ccd0ee0b98f56cd8ee1756488788bb048a5b15b&=&format=webp&quality=lossless&width=920&height=402" alt="" width="920" height="402"> 
+  <img src="https://i.imgur.com/og8ZMDF.png&=&format=webp&quality=lossless&width=920&height=402" alt="" width="920" height="402"> 
 </div> 
 
 <div align="center">
