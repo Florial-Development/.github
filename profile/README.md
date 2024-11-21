@@ -29,7 +29,7 @@ Brann's Burrow starting developed around late September 2023, developed in a ser
 > Trello: https://trello.com/b/F26awz1q/branns-burrow-tftd-development
 
 
-> Temporary Website: https://brannsburrow.carrd.co/
+> Website: https://brannsburrow.com/
  
 ## Curated by
 
